@@ -1,0 +1,12 @@
+C:\Users\franc\Downloads\SimpleCalculator\SimpleCalculator.pdb
+C:\Users\franc\Downloads\SimpleCalculator\D3DCompiler_47_cor3.dll
+C:\Users\franc\Downloads\SimpleCalculator\PenImc_cor3.dll
+C:\Users\franc\Downloads\SimpleCalculator\PresentationNative_cor3.dll
+C:\Users\franc\Downloads\SimpleCalculator\vcruntime140_cor3.dll
+C:\Users\franc\Downloads\SimpleCalculator\wpfgfx_cor3.dll
+C:\Users\franc\Downloads\SimpleCalculator\comerr64.dll
+C:\Users\franc\Downloads\SimpleCalculator\gssapi64.dll
+C:\Users\franc\Downloads\SimpleCalculator\k5sprt64.dll
+C:\Users\franc\Downloads\SimpleCalculator\krb5_64.dll
+C:\Users\franc\Downloads\SimpleCalculator\krbcc64.dll
+C:\Users\franc\Downloads\SimpleCalculator\SimpleCalculator.exe

@@ -1,0 +1,7 @@
+C:\Users\franc\Downloads\SimpleCalculator_x86\SimpleCalculator.pdb
+C:\Users\franc\Downloads\SimpleCalculator_x86\D3DCompiler_47_cor3.dll
+C:\Users\franc\Downloads\SimpleCalculator_x86\PenImc_cor3.dll
+C:\Users\franc\Downloads\SimpleCalculator_x86\PresentationNative_cor3.dll
+C:\Users\franc\Downloads\SimpleCalculator_x86\vcruntime140_cor3.dll
+C:\Users\franc\Downloads\SimpleCalculator_x86\wpfgfx_cor3.dll
+C:\Users\franc\Downloads\SimpleCalculator_x86\SimpleCalculator.exe
